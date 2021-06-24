@@ -46,7 +46,7 @@ Des alias ont été introduits dans ./bashrc (via l'installation) pour exécuter
 facilement depuis n'importe quel répertoire. Nous avons également fait des alias
 pour des commandes déjà existantes (comme cp, mv) pour qu'elles exécutent ces programmes qui tiennent en compte le système de tags (comme indiqué dans le sujet).
 
-#### Les sous-répertoires
+#### Les sous-répertoires
 
 Ces sous-répertoires permettent de stocker nos tags suivant la stratégie expliquée en I.
 
