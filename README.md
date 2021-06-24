@@ -20,7 +20,7 @@ comme une hiérarchie de répertoires, sous-répertoires ... etc).
 Concernant les tags "parallèles" (c'est-à-dire les tags distincts n'appartenant
 pas à la même hiérarchie), leur fonctionnement est similaire à celui des liens, de répertoires différents, qui pointent vers un même fichier.
 
-### Choix adoptés
+### Choix adoptés
 
 - Le système de tags nécessite une installation de l'utilisateur mais n'a pas d'influence
 sur les autres comptes utilisateurs.
